@@ -5,8 +5,7 @@ Lerna : https://github.com/lerna/lerna
 ### Setup Lerna
 
 <!-- 1. Install lerna `npm install --g lerna` -->
-
-2. Initialize lerna `npx lerna init`
+1. Initialize lerna `npx lerna init`
 
 ### Setup react app inside /packages
 
