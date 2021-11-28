@@ -6,6 +6,7 @@ It uses multiple react projects.
 - Child project (child-app-1)
 
 [Lerna](https://lerna.js.org/) - to configure monorepo structure
+
 [craco](https://github.com/gsoft-inc/craco) - to override cra configuration
 
 
